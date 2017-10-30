@@ -12,6 +12,6 @@ hyperactivity disorder: a resting-state functional magnetic resonance imaging st
 Neuroreport 17 (10) (2006) 1033–1036. 
 
 ## Download
-* First alternative: open https://raw.githubusercontent.com/rahmarid/dataset/master/ADHD.csv and save as data, OR
+* First alternative: open https://raw.githubusercontent.com/rahmarid/dataset/master/ADHD.csv and save the data, OR
 * Second alternative: use "clone or download" on the right top corner to download all files in the repository including
 the data set.
