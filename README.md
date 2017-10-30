@@ -11,3 +11,7 @@ consisting of 221 subjects and eight variables.
 hyperactivity disorder: a resting-state functional magnetic resonance imaging study,
 Neuroreport 17 (10) (2006) 1033–1036. 
 
+## Download
+* First alternative: open https://raw.githubusercontent.com/rahmarid/dataset/master/ADHD.csv and save as data, OR
+* Second alternative: use "clone or download" on the right top corner to download all files in the repository including
+the data set.
